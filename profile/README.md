@@ -1,7 +1,7 @@
 # DaisyDisk Mac Download – Visual Disk Space Analyzer for macOS
 
 <div align="center">
-<img src="https://static.macupdate.com/app-gallery/136/m/image1-main-image.jpg" alt="DaisyDisk Logo" width="256" height="256">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/6f/d4/bf6fd4b1-2047-b1e6-3823-563dc19803e5/DaisyDisk.png/1200x600bf.png" alt="DaisyDisk Logo" width="256" height="256">
 </div>
 
 <div align="center">
